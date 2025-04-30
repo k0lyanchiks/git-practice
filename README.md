@@ -1,3 +1,3 @@
-<h1>Hello, I'm Ivanchikov Nikolay❤</h1>
-<h2>Today is a good day</h2>
-<img src=https://yandex.ru/images/search?pos=3&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FErYbH3xVQAALZi3.jpg&text=мем&rpt=simage&lr=21>
+<h1>Ivanchikov Nikolay</h1>
+<h2>16.04.25</h2>
+<img src=https://avatars.mds.yandex.net/i?id=6b8aa462195fa55020282bee8ae7a8759252378e-5042164-images-thumbs&n=13>
